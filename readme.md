@@ -282,6 +282,7 @@
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+- [WPF](https://github.com/Carlos487/awesome-wpf#readme) - A collection of WPF resources, libraries and UI controls.
 
 ## Back-End Development
 
